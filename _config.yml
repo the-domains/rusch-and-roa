@@ -1,7 +1,7 @@
 name: 'Rusch & Roa'
 favicon: null
 layout_spectrum: 0.8025609119795263
-typography_spectrum: 0.2859067670069635
+typography_spectrum: 0.45503
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5462989676743746
-  lightness: 0.5312921926379204
-  saturation: 0.24121826002374291
-  rhythmicContrast: 0.795600051060319
+    - '#ffffff'
+    - '#5b5b5b'
+    - '#cdcdcd'
+    - '#989898'
+    - '#e67257'
+  brandStrength: 0.75
+  lightness: 0.875
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
